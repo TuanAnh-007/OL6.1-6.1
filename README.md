@@ -16,3 +16,4 @@
 
 <img width="951" height="687" alt="Ảnh chụp màn hình 2026-11-12 033009" src="https://github.com/user-attachments/assets/857bdcdc-8e6f-4e03-84e7-516240120be3" />
 
+<img width="640" height="776" alt="Ảnh chụp màn hình 2026-11-12 033439" src="https://github.com/user-attachments/assets/7c5e6cbb-479e-4bd2-bc13-a0a0b87721d0" />
